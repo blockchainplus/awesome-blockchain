@@ -33,6 +33,22 @@
 
 ## 研究报告
 
+- [申万宏源-计算机行业云计算大数据区块链2016：大数据的直立行走，区块链及人工智能-160323](http://www.microbell.com/docdetail_1789967.html)
+- [申万宏源-区块链和数字货币系列报告之一：入门指南（上）；区块链技术颠覆式创新-160322](http://www.microbell.com/docdetail_1787568.html)
+- [国信证券-互联网行业专题研究：区块链，可代替VISA的低熵新网络-160321](http://www.microbell.com/docdetail_1786071.html)
+- [国泰君安-信息技术行业区块链技术研究报告：巨头引领变革，区块链大有作为-160224](http://www.microbell.com/docdetail_1768223.html)
+- [长江证券-信息技术服务行业：区块链专家电话研讨会议纪要-160224](http://www.microbell.com/docdetail_1767179.html)
+- [兴业证券-计算机行业：区块链与数字货币，原理、特征和构想-160201](http://www.microbell.com/docdetail_1758348.html)
+- [中金公司-区块链，改变金融业基础架构-160129](http://www.microbell.com/docdetail_1755862.html)
+- [中金公司-泡沫启示录：区块链，从革新金融到构建自治社会-160129](http://www.microbell.com/docdetail_1755860.html)
+- [川财证券-区块链技术调研报告之二区块链技术进化论：区块链技术的国内实践和展望-160125](http://www.microbell.com/docdetail_1754164.html)
+- [中金公司-美国科技观察周报网络电视高歌猛进，区块链异军突起-160124](http://www.microbell.com/docdetail_1752061.html)
+- [广发证券-机械设备行业科技前沿系列报告之一：区块链，正快速走进公众和政策视野-160124](http://www.microbell.com/docdetail_1751968.html)
+- [莫尼塔-“区块链技术”系列交流会：区块链在金融及医疗领域概况与展望-160118](http://www.microbell.com/docdetail_1748256.html)
+- [中信证券-区块链：星星之火，可以燎原-160108](http://www.microbell.com/docdetail_1745069.html)
+- [川财证券-区块链技术调研报告之一：具有颠覆所有行业的可能性-160112](http://www.microbell.com/docdetail_1745038.html)
+- [中金公司-美国科技观察周报：创投市场感受加息寒意，区块链革新金融业-151220](http://www.microbell.com/docdetail_1732241.html)
+
 ## Books 
 
 - [Bitcoin and Cryptocurrency Technologies (Textbook)](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
