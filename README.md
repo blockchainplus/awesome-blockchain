@@ -75,13 +75,98 @@
 ## Blockchain as a Service (BaaS) 
 - [IBM blockchain](http://www.ibm.com/blockchain/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/documentation/templates/)
-  - [比特股bitshares](https://azure.microsoft.com/en-us/documentation/templates/bitshares-ubuntu-vm/)
+  - [Bitshares](https://azure.microsoft.com/en-us/documentation/templates/bitshares-ubuntu-vm/)
   - [Blockapps: STRATO](https://azure.microsoft.com/en-us/marketplace/partners/consensys/blockapps-strato/)
-  - [以太坊Go Ethereum on Ubuntu](https://azure.microsoft.com/en-us/documentation/templates/go-ethereum-on-ubuntu/)
+  - [Go Ethereum on Ubuntu](https://azure.microsoft.com/en-us/documentation/templates/go-ethereum-on-ubuntu/)
   - [Eris](https://azure.microsoft.com/en-us/documentation/templates/eris-platform/)
   - [Openchain](https://azure.microsoft.com/en-us/documentation/templates/openchain-blockchain-coinprism/)
   
 ## 区块链即服务
 
 - [万向区块链实验室云平台BaaS](http://baas.blockchainlabs.org/) Bitcoin, Ethereum，Bitshares,Factom
+
+
+## Proof of existence／assets
+- [Factom](http://www.factom.org) A Scalable Data Layer for the Blockchain
+- [Ascribe](http://ascribe.io) Lock in attribution, securely share and trace where your digital work spreads. 
+- [Proof of Existence](http://proofofexistence.com) Select a document and have it certified in the Bitcoin blockchain. 
+- [Bitproof.io](https://bitproof.io) Bitproof created GeniusX, a tool that lets you protect your Intellectual Property. 
+- [BlockNotary](http://www.blocknotary.com)  Blockchain securely timestamps every interview and protects it from tampering.
+- [StampD](http://stampd.io) Entrust the Blockchain to notarize proof of ownership of any digital creation. 
+- [Stampery](https://stampery.co) Create an immutable record of existence, integrity and ownership of your documents, business processes and communications.
+- [LaPreuve](http://www.lapreuve.net/explication.html) (broken link.)
+- [EternityWall](http://eternitywall.it) Messages lasting forever
+- [Tierion](https://tierion.com) Tierion is an engine for collecting data 
+and recording it in the blockchain.
+- [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service.
+- [CryptoPublicNotary](http://www.cryptopublicnotary.com/) Block Chain Provenance For Digital Documents. 
+- [Colu](https://www.colu.co/) Your Assets Made Digital.
+- [Guardtime](https://guardtime.com/) A blockchain approach to cybersecurity that ensures the integrity of systems, networks and data at industrial scale.
+- [Monegraph](https://monegraph.com/) A content monetization platform using blockchain.
+- [Uproov](https://uproov.com/) Prove your Image, Video, Audio or other files.
+- [Chronicled](http://www.chronicled.com) 2015.09 Raised $150M, smart tags for authentication sneakers. 
+- [Blockai](https://blockai.com/) Claim ownership of your digital creations
+- [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
+- [Coinprism](https://www.coinprism.com) Use the Bitcoin blockchain with any kind of asset
+- [Everledger](http://www.everledger.io/) an online reputation system for diamonds
+- [Blockverify.io](http://blockverify.io) Blockchain Based Anti-Counterfeit Solution
+- [Blockcypher/Assets API](http://dev.blockcypher.com/#asset-api) Assets API using OpenAssets protocol
+        
+## 公证防伪
+- [爱立示](http://www.alstru.com)　无钥签名
+
+# Online identity
+- [Passcard](https://passcard.info)
+- [OneName](https://onename.com)
+- [ShoCard](http://www.shocard.com/)
+- [BlockchainMe](http://blockchainme.com/)
+
+# Timestamp
+- [BTProof](https://www.btproof.com/)
+- [OringStamp](http://www.originstamp.org/)
+
+# Document Signing
+- [BlockSign](https://blocksign.com)
+
+# SSL Certificates
+- [Revoke SSL](https://github.com/ChristopherA/revocable-self-signed-tls-certificates-hack)
+
+# Analytics
+- [Numisigh] (http://numisight.com/) Numisight gives you the tools you need to view 
+the forest, the trees, and all the levels of detail in between.
+- [BlockSeer] (https://www.blockseer.com/) Bitcoin blockchain analytics
+
+# Other
+- [Tradle] (http://tradle.io/) extending the bitcoin blockchain to non-financial applications
+
+# Private Blockchain
+- [Multichain](http://www.multichain.com/) Open platform for building blockchains
+- [Openchain](http://openchain.org) Blockchain technology for the enterprise
+- [Eris Industries](https://erisindustries.com/) Eris is free software that allows anyone to build their own secure, low-cost, run-anywhere data infrastructure using blockchain and smart contract technology.
+- [Linux Foundation Blockchain](https://blockchain.linuxfoundation.org/) backed by IBM
+- [Applied Blockchain](http://appliedblockchain.com/) consulting company
+- [Openblockchain](https://github.com/openblockchain) Blockchain fabric code
+
+# Storage
+- [SIA](http://sia.tech/) Enterprise-Grade Collaborative Cloud for Data Storage
+- [Storj.io](http://storj.io/) Decentralized Cloud Storage. Storj is based on blockchain technology and peer-to-peer protocols to provide the most secure, private, and encrypted cloud storage
+- [Maidsafe](http://maidsafe.net/) SAFE (Secure Access For Everyone) Network, a new Secure way to access a world of existing apps where the security of your data is put above all else.
+- [IPFS](https://ipfs.io/) The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
+- [Lbry](http://lbry.io/) LBRY is a decentralized, censorship-resistant, open-source, peer-to-peer information marketplace and discovery protocol.
+- [Filecoin](http://filecoin.io/) Filecoin is a data storage network and electronic currency based on Bitcoin.
+
+# Authentication
+- [BitID](https://github.com/bitid) BitID, the "connect with Bitcoin" open protocol
+- [bitauth](https://github.com/bitpay/bitauth) Authenticate with web services utilizing the same strategy as Bitcoin.
+
+# Social Communication
+- [GetGems](http://getgems.org/) GetGems is a free social messaging app that rewards you for your activity.
+- [Twister](http://twister.net.co/) Fully decentralized P2P microblogging platform.
+
+# DNS
+- [Blockstack](https://blockstack.org/) Decentralized DNS for Blockchain Applications
+
+# Marketplace
+- [Rein](http://reinproject.org/) Decentralized professional services market
+- [Ribbit.me](http://ribbit.me/) Loyalty solution based on blockchain
 
