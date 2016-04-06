@@ -9,6 +9,7 @@
 - [CoinJournal](http://coinjournal.net/)
 - [CoinFOX](http://coinfox.info/)
 - [BitcoinTalk press links](https://bitcointalk.org/index.php?board=77.0)
+- [Blockchain News](http://www.the-blockchain.com/) Blockchain News is your source for the latest news and opinion on blockchain technology and intelligence.
 
 
 ## 媒体
